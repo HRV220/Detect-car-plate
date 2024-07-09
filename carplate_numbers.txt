@@ -1,0 +1,62 @@
+frame_00153.jpg: 
+frame_00170.jpg: ASS
+frame_00173.jpg: ANS
+frame_00183.jpg: SS
+frame_00289.jpg: 
+frame_00329.jpg: 
+frame_00330.jpg: 
+frame_00331.jpg: 
+frame_00332.jpg: 
+frame_00333.jpg: 
+frame_00334.jpg: 
+frame_00335.jpg: 
+frame_00336.jpg: 
+frame_00341.jpg: 
+frame_00343.jpg: 
+frame_00550.jpg: TE
+frame_00551.jpg: ARAURCELET
+frame_00554.jpg: LURE
+frame_00621.jpg: MLL
+frame_00623.jpg: BL
+frame_00645.jpg: MEDLU
+frame_00646.jpg: LY
+frame_00648.jpg: TOL
+frame_00713.jpg: EF
+frame_00779.jpg: 
+frame_00793.jpg: 
+frame_00853.jpg: 
+frame_00864.jpg: 
+frame_00893.jpg: 
+frame_00896.jpg: 
+frame_00897.jpg: 
+frame_00898.jpg: 
+frame_00904.jpg: 
+frame_00905.jpg: 
+frame_00906.jpg: 
+frame_00907.jpg: 
+frame_00908.jpg: 
+frame_00909.jpg: 
+frame_00910.jpg: 
+frame_00911.jpg: 
+frame_00912.jpg: 
+frame_00913.jpg: 
+frame_00914.jpg: 
+frame_00915.jpg: 
+frame_00916.jpg: 
+frame_00917.jpg: 
+frame_00918.jpg: 
+frame_00919.jpg: 
+frame_00920.jpg: 
+frame_00921.jpg: 
+frame_00922.jpg: 
+frame_00923.jpg: 
+frame_00928.jpg: 
+frame_01013.jpg: A
+frame_01028.jpg: 
+frame_01029.jpg: SS
+frame_01037.jpg: 
+frame_01042.jpg: 
+frame_01047.jpg: M4
+frame_01048.jpg: SS
+frame_01049.jpg: SS
+frame_01201.jpg: SR
